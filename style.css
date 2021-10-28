@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
+#heading{
+	font-family: 'Zen Kurenaido', sans-serif;
+	margin-top: 0;
+}
+
+#myCanvas{
+	border: ridge 10px blue;
+	background-image: url("grass.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
